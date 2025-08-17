@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7294C970-34F1-4F9C-855B-00EF0AEA0ED4}|PeopleBithdayCongratulator\\PeopleBithdayCongratulator.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\modulestest\\peoplebithdaycongratulator\\bithdaycongratulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7294C970-34F1-4F9C-855B-00EF0AEA0ED4}|PeopleBithdayCongratulator\\PeopleBithdayCongratulator.csproj|solutionrelative:peoplebithdaycongratulator\\bithdaycongratulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7294C970-34F1-4F9C-855B-00EF0AEA0ED4}|PeopleBithdayCongratulator\\PeopleBithdayCongratulator.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\modulestest\\peoplebithdaycongratulator\\bithdaycongratulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7294C970-34F1-4F9C-855B-00EF0AEA0ED4}|PeopleBithdayCongratulator\\PeopleBithdayCongratulator.csproj|solutionrelative:peoplebithdaycongratulator\\bithdaycongratulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D8B669-A9EF-436E-847E-4F0E08D37FDD}|ModulesTest\\ModulesTest.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\modulestest\\modulestest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D8B669-A9EF-436E-847E-4F0E08D37FDD}|ModulesTest\\ModulesTest.csproj|solutionrelative:modulestest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BithdayCongratulation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\PeopleBithdayCongratulator\\BithdayCongratulation.cs",
+              "RelativeDocumentMoniker": "PeopleBithdayCongratulator\\BithdayCongratulation.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\PeopleBithdayCongratulator\\BithdayCongratulation.cs",
+              "RelativeToolTip": "PeopleBithdayCongratulator\\BithdayCongratulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:37:08.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BithdayCongratulator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\PeopleBithdayCongratulator\\BithdayCongratulator.cs",
+              "RelativeDocumentMoniker": "PeopleBithdayCongratulator\\BithdayCongratulator.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\PeopleBithdayCongratulator\\BithdayCongratulator.cs",
+              "RelativeToolTip": "PeopleBithdayCongratulator\\BithdayCongratulator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:04:01.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\ModulesTest\\Program.cs",
+              "RelativeDocumentMoniker": "ModulesTest\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\ModulesTest\\ModulesTest\\Program.cs",
+              "RelativeToolTip": "ModulesTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:30:01.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
