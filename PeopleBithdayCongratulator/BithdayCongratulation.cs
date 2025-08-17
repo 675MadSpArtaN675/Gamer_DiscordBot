@@ -8,20 +8,21 @@ namespace PeopleBithdayCongratulator
     {
         public string Title { get; init; }
         public string Description { get; init; }
-        public byte[] Image { get; set; }
+        public string? ImageUri { get; set; }
         public SocketGuildUser BithdayBoy { get; set; }
 
-        public BithdayCongratulation(string title, string description)
+        public BithdayCongratulation(string title, string description, string imageUri)
         {
             Title = title;
             Description = description;
+            ImageUri = imageUri;
         }
 
-        public BithdayCongratulation(string title, string description, byte[] image, SocketGuildUser bithdayBoy)
+        public BithdayCongratulation(string title, string description, string imageUri, SocketGuildUser bithdayBoy)
         {
             Title = title;
             Description = description;
-            Image = image;
+            ImageUri = imageUri;
             BithdayBoy = bithdayBoy;
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeopleBithdayCongratulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c0d8ef59d8388f7077b2e1db7e5f6537bd9fd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeopleBithdayCongratulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeopleBithdayCongratulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
